@@ -1,1 +1,3 @@
+#EXTM3U
+#EXTINF:1 tvg-name="Kurd sport" tvg-logo="" group-title="Kurd",Kurd sport
 http://188.72.5.30:8080/live/alsard/555666/5203.m3u8
